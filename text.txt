@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Create amazing videos using AI tools like InVideo. Boost your content with the power of Artificial Intelligence." />
+  <meta name="keywords" content="AI video maker, InVideo, create videos with AI, artificial intelligence video editor, smart video tools" />
+  <meta name="author" content="Your Name" />
+  <title>AI Video Creation - Powered by InVideo</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f2f2f2;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    header {
+      background: #000;
+      color: #fff;
+      padding: 30px 20px;
+      text-align: center;
+    }
+    main {
+      padding: 30px 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1 {
+      color: #111;
+    }
+    .cta-button {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 15px 25px;
+      background: #007bff;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #ddd;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Make Stunning Videos with AI</h1>
+    <p>Use the power of Artificial Intelligence to create professional videos in minutes.</p>
+  </header>
+
+  <main>
+    <h2>Why Use AI for Video Creation?</h2>
+    <p>Artificial Intelligence tools like <strong>InVideo</strong> help creators generate high-quality, engaging videos with ease. Whether you're a content creator, marketer, or business owner, AI-powered video editing saves you time, effort, and money.</p>
+
+    <h2>Best AI Video Editor in 2025: InVideo</h2>
+    <p>InVideo uses smart algorithms to turn scripts into videos, add voiceovers, automate transitions, and suggest the best scenes — all powered by AI. It's trusted by thousands of users worldwide.</p>
+
+    <h2>Keywords You Care About:</h2>
+    <ul>
+      <li>AI video generator</li>
+      <li>Smart video editing tools</li>
+      <li>Create videos using artificial intelligence</li>
+      <li>InVideo alternative</li>
+      <li>Text to video AI</li>
+      <li>Best AI video tool for content creators</li>
+    </ul>
+
+    <a href="https://invideo.io?ref=YOUR_AFFILIATE_ID" class="cta-button" target="_blank">Try InVideo Now</a>
+  </main>
+
+  <footer>
+    &copy; 2025 YourName | All rights reserved.
+  </footer>
+
+</body>
+</html>
